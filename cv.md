@@ -1,10 +1,11 @@
 # rsschool-cv
 https://dmitryMsechko.github.io/rsschool-cv/cv
 
-#My CV
-##Dmitry Sechko.
-contacts: phone +375-(29)-573-52-11; email second.dmitrijj@gmail.com
-24 y.o. I was born in Minsk, Belarus. I have a big family and pets.
+#**My CV**
+##**Dmitry Sechko**
+contacts: phone *+375-(29)-573-52-11*; email *second.dmitrijj@gmail.com*.
+24 y.o. 
+I was born in Minsk, Belarus. I have a big family and pets.
 I work as a duty technician in a hotel DoubleTree by Hilton Minsk. 
 I'm purposeful, punctual, sociable. I have an idea for an app and i want to create it using the courses at this school.
 I'm new to programming.
