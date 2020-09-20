@@ -3,7 +3,7 @@ https://dmitryMsechko.github.io/rsschool-cv/cv
 
 #**My CV**
 ##**Dmitry Sechko**
-contacts: phone *+375-(29)-573-52-11*; email *second.dmitrijj@gmail.com*.
+contacts: Phone *+375-(29)-573-52-11*; Email *second.dmitrijj@gmail.com*.
 * 24 y.o. 
 * I was born in Minsk, Belarus. I have a big family and pets.
 * I work as a duty technician in a hotel DoubleTree by Hilton Minsk. 
