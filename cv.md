@@ -1,8 +1,8 @@
 # rsschool-cv
 https://dmitryMsechko.github.io/rsschool-cv/cv
 
-#**My CV**
-##**Dmitry Sechko**
+# **My CV**
+## **Dmitry Sechko**
 contacts: Phone *+375-(29)-573-52-11*; Email *second.dmitrijj@gmail.com*.
 * 24 y.o. 
 * I was born in Minsk, Belarus. I have a big family and pets.
