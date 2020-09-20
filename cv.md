@@ -3,7 +3,8 @@ https://dmitryMsechko.github.io/rsschool-cv/cv
 
 <!doctype html>
   <html>
-    <head>
+    <index.html>
+      <head>
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <h1><strong>My CV</strong></h1>
       <h2><strong>Dmitry Sechko</strong></h2>
