@@ -2,14 +2,14 @@
 https://dmitryMsechko.github.io/rsschool-cv/
 
 <!doctype html>
-  <html>
-    <index.html>
-      <head>
+  <html lang="en">
+    <head>
       <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>My CV</title>
       <h1><strong>My CV</strong></h1>
       <h2><strong>Dmitry Sechko</strong></h2>
       <h4>contacts: Phone <em>+375-(29)-573-52-11;</em> Email <em>second.dmitrijj@gmail.com</em>.</h4>
-      <p><img src="/photoforrsschool.png" alt="photo for CV" width="320" height="320"align="right"></p>
+      <p><img src="/photoforrsschool.png" alt="photo for CV" width="320" height="320" align="right"></p>
     </head>
     <body>
       <ul>
