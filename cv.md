@@ -1,5 +1,5 @@
 # rsschool-cv
-https://dmitryMsechko.github.io/rsschool-cv/
+https://dmitryMsechko.github.io/rsschool-cv/cv
 
 <!doctype html>
   <html lang="en">
